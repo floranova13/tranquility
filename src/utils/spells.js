@@ -1,3 +1,5 @@
+// TODO: Add constants for spells
+
 export const spells = [
   {
     name: 'Restore',
